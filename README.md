@@ -4,7 +4,7 @@
 - 🎓 Universidade Federal do ABC - Ciência da Computação
 - 🎓 Universidade Federal do ABC - Neurociência
 
-- 🔭 Bolsista de Extensão e Cultura em Letramento e Inclusão digital para Crianças e Adolescentes em abrigo
+- 🔭 Bolsista de Extensão e Cultura em Letramento e Inclusão digital para Crianças e Adolescentes em abrigos
 - 🌱 Atualmente aprendendo Java
 
 <section align="center" class="informações">
