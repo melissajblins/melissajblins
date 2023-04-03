@@ -5,7 +5,7 @@
 - 🎓 Universidade Federal do ABC - Neurociência
 
 - 🔭 Bolsista de Apoio ao ensino de disciplinas introdutórias e obrigatórias ligadas à área de Computação
-- 🌱 Atualmente aprendendo Java
+- 🌱 Atualmente aprendendo Kotlin e estudando Java
 
 <section align="center" class="informações">
   <a href="https://github.com/melissajblins">
